@@ -9,7 +9,7 @@ b.argmax()  # 3
 b.max()  # 4
 b.mean()  # 2.5
 
-c = [[1, 2], [3, 4]]  # 二维列表
+c = [[1, 2], [3, 4]]   # 二维列表
 d = np.array(c)  # 二维numpy数组
 d.shape  # (2, 2)
 d.size  # 4
